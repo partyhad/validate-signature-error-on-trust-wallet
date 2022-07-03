@@ -1,0 +1,1 @@
+# validate-signature-error-on-trust-wallet
